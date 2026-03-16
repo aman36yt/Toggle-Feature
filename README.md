@@ -4,3 +4,8 @@ This Is Developed By Aman.
 
 # Technologies---
 Tech-USed-->HTML5 , CSS3 , JAVAScript .
+
+# Langauge Uses--
+HTML -- for Structuring.
+CSS -- for UI(user interface).
+Js -- for intrative Page.
